@@ -6,7 +6,7 @@ With a tenure of 2 years in the programming sphere, I have honed my skills in co
 💻 Technology Domain
 
     Frontend: Proficient in Angular (🅰️) and React (⚛️)
-    Backend: Apt in crafting solutions using Node.js (🚀) and Express (🛤️)
+    Backend: Apt in crafting solutions using Node.js (🚀) and nest.js (🛤️)
     Languages: Fluent in TypeScript (📝), Python (🐍), and JavaScript (💡)
     Databases: Proficient in solving SQL intricacies, and adept in PostgreSQL (psql) (🐘)
     Cloud Services: Well-versed in navigating AWS infrastructure (☁️)
