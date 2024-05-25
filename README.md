@@ -1,7 +1,7 @@
 Greetings,
 
-I extend my salutations to the tech community. I am Sheri, a software developer originally from Pakistan 🇵🇰, currently contributing to Nuwatt technovations. 
-With a tenure of 2 years in the programming sphere, I have honed my skills in core concepts, debugging methodologies, and the orchestration of REST APIs.
+I extend my salutations to the tech community. I am Sheri, A seasoned software engineer with a passion for creating innovative solutions.
+
 
 💻 Technology Domain
 
