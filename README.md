@@ -1,6 +1,6 @@
 Greetings,
 
-I extend my salutations to the tech community. I am Sheri, A seasoned software engineer with a passion for creating innovative solutions.
+I am Sheri, A seasoned software engineer with a passion for creating innovative solutions.
 
 
 💻 Technology Domain
